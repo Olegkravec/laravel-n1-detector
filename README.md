@@ -1,0 +1,1 @@
+# Laravel N+1 Detector

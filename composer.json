@@ -1,0 +1,41 @@
+{
+    "name": "olegkravec/detector-n1",
+    "description": "Laravel N+1 Query Detector",
+    "keywords": [
+        "detector-n1"
+    ],
+    "require": {
+        "php": "^7.1 || ^8.0",
+        "illuminate/support": "^5.5 || ^6.0 || ^7.0 || ^8.0 || ^9.0"
+    },
+    "require-dev": {
+        "laravel/legacy-factories": "^1.0",
+        "orchestra/testbench": "^3.0 || ^4.0 || ^5.0 || ^6.0",
+        "phpunit/phpunit": "^7.0 || ^8.0 || ^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "OlegKravec\\QueryDetector\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "OlegKravec\\QueryDetector\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "OlegKravec\\QueryDetector\\QueryDetectorServiceProvider"
+            ]
+        }
+    }
+}
