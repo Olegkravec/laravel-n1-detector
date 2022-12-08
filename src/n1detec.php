@@ -129,7 +129,10 @@ foreach ($FILES as $file){ // searching exactly N+1
 
 
     foreach ($matched_relation_nodes as $relation_node){
-        echo "\n\tHello bad developer, N+1 detected: " . $relation_node[0]->getStartLine() . "-"  . $relation_node[0]->getEndLine() . " | " . $relation_node[0]->getType() . "(".$relation_node[0]->name.")";
+        echo "\n\tHello bad developer, N+1 detected: " . $relation_node[0]->getStartLine() . "-"
+            . $relation_node[0]->getEndLine() . " | "
+            . "\twhat: " . $relation_node[0]->getType() . "(".$relation_node[0]->name.")"
+            . "\twhere: " . $file;
     }
 }
 

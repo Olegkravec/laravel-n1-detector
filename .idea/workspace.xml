@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0910e9d5-230d-47eb-9e4e-71842eff7959" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/detector-n1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/detector-n1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="0910e9d5-230d-47eb-9e4e-71842eff7959" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +45,7 @@
       <workItem from="1669803203625" duration="1295000" />
       <workItem from="1670253818289" duration="3000" />
       <workItem from="1670435260182" duration="6000" />
-      <workItem from="1670494769486" duration="412000" />
+      <workItem from="1670494769486" duration="786000" />
     </task>
     <task id="LOCAL-00001" summary="Custom sast finised">
       <created>1670494849106</created>
@@ -58,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670494849106</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Custom sast finised">
+      <created>1670495203370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670495203370</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
