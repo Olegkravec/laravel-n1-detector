@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0910e9d5-230d-47eb-9e4e-71842eff7959" name="Default Changelist" comment="" />
+    <list default="true" id="0910e9d5-230d-47eb-9e4e-71842eff7959" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/detector-n1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/detector-n1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2IDshEZQMtWXLbU22ZH4PRBRNA6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,6 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -36,11 +45,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669727605457</updated>
-      <workItem from="1669727607752" duration="1085000" />
+      <workItem from="1669727607752" duration="2681000" />
+      <workItem from="1669803203625" duration="1295000" />
+      <workItem from="1670253818289" duration="3000" />
+      <workItem from="1670435260182" duration="6000" />
+      <workItem from="1670494769486" duration="412000" />
     </task>
+    <task id="LOCAL-00001" summary="Custom sast finised">
+      <created>1670494849106</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670494849106</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Custom sast finised" />
+    <option name="LAST_COMMIT_MESSAGE" value="Custom sast finised" />
   </component>
 </project>
